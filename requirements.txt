@@ -22,3 +22,10 @@ llama-index-llms-openai>=0.1.6
 
 # Additional Document Processing
 python-docx>=1.1.0
+
+# crewai==0.28.8
+# crewai-tools==0.2.6
+# langchain-community==0.0.38
+# qdrant-client==1.7.0
+# firecrawl-py==0.0.16
+# PyPDF2==3.0.1
