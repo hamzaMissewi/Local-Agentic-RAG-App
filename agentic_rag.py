@@ -20,7 +20,7 @@ QDRANT_PATH = "./qdrant_data"
 COLLECTION_NAME = "documents"
 EMBEDDING_MODEL = "llama3.2"
 LLM_MODEL = "llama3.2"
-FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY", "fc-2139a6d4c0ad4d34ae23d7668b1ad411")
+FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY")
 
 # ================== INITIALIZE COMPONENTS ==================
 
